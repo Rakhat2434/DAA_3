@@ -1,0 +1,7 @@
+Graph_ID,Vertices,Edges,Algorithm,Total_Cost,Operations,Execution_Time_ms
+1,5,7,Prim,16,12,0.61
+1,5,7,Kruskal,16,46,0.50
+2,10,15,Prim,34,25,0.05
+2,10,15,Kruskal,34,122,0.04
+3,20,29,Prim,89,51,0.10
+3,20,29,Kruskal,89,277,0.07
